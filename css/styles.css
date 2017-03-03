@@ -240,7 +240,7 @@ th {
 }
 
 /* Links */
-a:link, a:visited {
+a.github:link, a.github:visited {
     background-color: white;
     color: black;
     border: 2px solid green;
@@ -250,7 +250,7 @@ a:link, a:visited {
     display: inline-block;
 }
 
-a:hover, a:active {
+a.github:hover, a.github:active {
     background-color: green;
     color: white;
 }
